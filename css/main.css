@@ -2289,9 +2289,11 @@ img:-moz-loading {
 @media(min-width: 90rem) {
 	.css-1iigb5k.align-left {
 		max-width: 20.625rem;
-		float: left;
+		/* float: left; */
 		clear: left;
-		margin-right: 1rem;
+		/* margin-right: 1rem; */
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	.css-1iigb5k.align-right {
