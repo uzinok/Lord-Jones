@@ -4342,4 +4342,7 @@ img:-moz-loading {
 	background-image: url(../img/icon/dislike-fill.svg)
 }
 
-/*# sourceMappingURL=main.min.css.map */
+img {
+	max-width: 100%;
+	height: auto;
+}
