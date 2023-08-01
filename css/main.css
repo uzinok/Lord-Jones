@@ -1469,13 +1469,13 @@ img:-moz-loading {
 }
 
 .css-14ioc23 {
-	border-bottom: 0.0625rem solid #E8E8E8;
+	/* border-bottom: 0.0625rem solid #E8E8E8; */
 	border-top: 0.0625rem solid #E8E8E8;
 	font-family: Inter, Helvetica, Arial, Sans-serif;
 	font-size: 0.70284rem;
 	line-height: 1.3;
 	margin: 0rem;
-	padding: .9375rem .625rem;
+	/* padding: .9375rem .625rem; */
 	text-align: center;
 	text-transform: none;
 	width: calc(100% + (.938rem*2));
