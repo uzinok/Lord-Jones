@@ -2691,6 +2691,7 @@ img:-moz-loading {
 }
 
 .css-1736von img:not(.ewcw41w1) {
+	max-width: 100%;
 	display: block;
 	/* width: 100%; */
 	height: auto;
