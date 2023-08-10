@@ -4346,3 +4346,29 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.css-z6i669 p a {
+	color: #f7623b;
+}
+
+.css-1pc0key {
+	position: relative;
+	width: fit-content;
+	margin: 1em auto;
+}
+
+.css-1pc0key span {
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-weight: 700;
+	color: #fff;
+	font-style: italic;
+	background-color: #f7623b;
+	padding: 10px;
+	border-radius: 50%;
+	aspect-ratio: 1/1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
